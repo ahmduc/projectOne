@@ -1,2 +1,2 @@
-# projectOne
+# ProjectOne
 This is demo repo
